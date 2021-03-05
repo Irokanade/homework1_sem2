@@ -61,7 +61,7 @@ int main() {
         memset(&tempChar, 0, 2);
     }
     
-    printf("%s", result);
+    printf("%s\n", result);
     
     return 0;
 }
